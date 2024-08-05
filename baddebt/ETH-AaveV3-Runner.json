@@ -1,1 +1,1 @@
-{"name":"ETH AaveV3 Runner","status":"running","lastStart":1722861285,"lastBlockFetched":0,"error":null,"lastUpdate":1722861285}
+{"name":"ETH AaveV3 Runner","status":"error","lastStart":1722861285,"lastBlockFetched":0,"error":"more than one pool provider address","lastUpdate":1722861286}
